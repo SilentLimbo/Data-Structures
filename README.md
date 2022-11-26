@@ -1,3 +1,3 @@
 # Data-Structures
 
-I lost a lot of my code T^T, send help, this is all I could find.
+This shows a bit of code work regarding different types of data structures
